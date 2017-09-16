@@ -25,7 +25,7 @@ SECRET_KEY = '+l+rv-me=bzx3l+bpviibk(wro01%i+64d@d)2vi#8rugri#jf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['miku311.pythonanywhere.com']
+ALLOWED_HOSTS = ['miku331.pythonanywhere.com']
 
 
 # Application definition
